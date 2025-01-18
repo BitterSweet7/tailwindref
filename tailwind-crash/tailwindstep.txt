@@ -1,0 +1,19 @@
+- npm init -y
+- tailwind installation all
+- แก้ package.json เพิ่ม build + watch
+- npm run build, npm run watch
+- tailwind.config ขนาด + สี colors + screens กำหนด custom color ต่างๆ
+- tailwind content ดูดีๆว่าถูก file ไหม
+1. Nav bar ใช้ flexbox
+- Logo + Menu + Button
+
+
+
+
+
+
+sm	640px	640px
+md	768px	768px
+lg	1024px	1024px
+xl	1280px	1280px
+2xl	1536px	1536px
